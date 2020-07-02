@@ -25,6 +25,11 @@ detect the fresh token and pass it to the task.
 
 `pip install -r requirements.txt`
 
-### 3. Run the bot
+### 3. Install chromedriver
+
+Install chromedriver, then head to `services/browser_service.py` and change the path
+to the `chromedriver.exe` to match yours.
+
+### 4. Run the bot
 
 `python chief_supreme.py`
