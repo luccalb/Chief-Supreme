@@ -1,2 +1,5 @@
 .env
 logs/
+.idea/
+services/__pycache__/
+models/__pycache__/
