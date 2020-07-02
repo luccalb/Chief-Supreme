@@ -1,0 +1,4 @@
+pyjwt
+selenium
+requests
+pyrebase

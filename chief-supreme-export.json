@@ -1,0 +1,38 @@
+{
+  "coplist": [
+    {
+      "category": "T-Shirts",
+      "keywords": [
+        "motion",
+        "tee"
+      ],
+      "style": "black",
+      "size": "medium",
+      "personal": false
+    }
+  ],
+  "identities": [
+    {
+      "name": "Bob Ross",
+      "email": "bob_ross@gmail.com",
+      "tel": "0123456789",
+      "address": "Fakestreet",
+      "address_2": "123",
+      "address_3": "",
+      "city": "Springfield",
+      "zip": "70879",
+      "card": {
+        "type": "american_express",
+        "cnb": "3750 373737 3737",
+        "month": "01",
+        "year": "2022",
+        "ovv": "1234"
+      }
+    }
+  ],
+  "recaptcha_tokens": {
+    "token0": "some_valid_recaptcha_token",
+    "token1": "some_valid_recaptcha_token"
+  }
+}
+
